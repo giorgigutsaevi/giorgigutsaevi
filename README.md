@@ -2,7 +2,8 @@
 - 👀 I’m interested in all things related to Web Development! 
 - 🌱 I’m currently learning JavaScript and its wonderful framework React.js
 - 💞️ I’m looking to collaborate on projects that will challenge me!
-- I'm always eager to go an extra mile! 
+- I love learning new things and will always give a helping hand. 
+- Always eager to go an extra mile! 
 - 📫 How to reach me:
   Email: george.gutsaevi@gmail.com
      
