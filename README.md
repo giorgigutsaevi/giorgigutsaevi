@@ -1,8 +1,6 @@
 - 👋 Hi there! I’m @giorgigutsaevi. 
-- 👀 I’m interested in all things related to Web Development! 
-- 🌱 I'm currently learning... React/Redux
-- 💞️ I’m eager to start my first journey as a junior Front-End dev 😇
-- I love learning new things and will always give a helping hand.
+- 👀 I’m interested in all things related to software engineering! 
+- 🌱 I'm currently learning...Ruby & JavaScript!
 - Always eager to go an extra mile! 
 
 - My work ethic summarized in one quote: 
