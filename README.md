@@ -12,7 +12,7 @@ Huge Ruby & JavaScript enthusiast. Based in London, UK 🇬🇧
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water. – Wu Li
 
 ## Blog & Writing
-Apart from coding, I like to document my journey. Pick through my brain on (Medium)[https://medium.com/@giorgi.gutsaev]
+Apart from coding, I like to document my journey. Pick through my brain on [Medium](https://medium.com/@giorgi.gutsaev)
 
 ## Get in touch
 * 📫 : giorgi.gutsaev@gmail.com 
