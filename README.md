@@ -3,12 +3,12 @@ Welcome to my page!
 
 Huge Ruby & JavaScript enthusiast. Based in London, UK 🇬🇧
 
-* 🤖  Always happy to code & build new things! 
-* 🌱  Always eager to learn new concepts and adapt.
-* 🌶  Naturally curious. 
-* 👀  I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
-* 👯‍♂️  Avid advocate for productivity and clarity through second-brain operations!
-* 🔭  My work ethic summarized in one quote: 
+*🤖 Always happy to code & build new things! 
+*🌱 Always eager to learn new concepts and adapt.
+*🌶 Naturally curious. 
+*👀 I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
+*👯‍♂️ Avid advocate for productivity and clarity through second-brain operations!
+*🔭 My work ethic summarized in one quote: 
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water. – Wu Li
 
 ## Blog & Writing
