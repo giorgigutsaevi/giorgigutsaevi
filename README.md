@@ -1,4 +1,4 @@
-# Hello There👋, I'm Giorgi. Nice to see you. 
+# Hello There👋 I'm Giorgi. Nice to see you. 
 Welcome to my page! 
 
 Huge Ruby & JavaScript enthusiast. Based in London, UK 🇬🇧
