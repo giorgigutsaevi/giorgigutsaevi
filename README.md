@@ -10,7 +10,8 @@ Based in London 🇬🇧
 - 👀 I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
 - 🧠 Avid advocate for productivity and clarity through Second Brain
 - ✨ My work ethic summarized in one quote: 
-> Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water. – Zen saying
+> Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water.\
+> – Zen saying
 
 ## Blog & Writing
 Apart from coding, I like to document my journey. Pick through my brain on [Medium](https://medium.com/@giorgi.gutsaev)
