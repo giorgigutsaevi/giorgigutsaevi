@@ -1,8 +1,7 @@
 # Hello There👋 I'm Giorgi. Nice to see you. 
 Welcome to my page! 
 
-Huge Ruby & JavaScript enthusiast. 
-Based in London, UK 🇬🇧
+Huge Ruby & JavaScript enthusiast. \Based in London, UK 🇬🇧
 
 - 🤖 Always happy to code & build new things! 
 - 🌱 Always eager to learn new concepts and adapt.
