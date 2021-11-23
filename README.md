@@ -2,7 +2,7 @@
 Welcome to my page! 
 
 Huge Ruby & JavaScript enthusiast.\
-Based in London, UK 🇬🇧
+Based in London 🇬🇧
 
 - 🤖 Always happy to code & build new things! 
 - 🌱 Always eager to learn new concepts and adapt.
