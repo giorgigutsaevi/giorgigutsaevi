@@ -8,8 +8,8 @@ Based in London 🇬🇧
 - 🌱 Always eager to learn new concepts and adapt.
 - 🌶 Naturally curious. 
 - 👀 I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
-- 👯‍♂️ Avid advocate for productivity and clarity through Second Brain
-- 🔭 My work ethic summarized in one quote: 
+- 🧠 Avid advocate for productivity and clarity through Second Brain
+- ✨ My work ethic summarized in one quote: 
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water. – Wu Li
 
 ## Blog & Writing
