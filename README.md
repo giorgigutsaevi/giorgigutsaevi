@@ -18,7 +18,6 @@ Apart from coding, I like to document my journey. Pick through my brain on [Medi
 
 ## Get in touch
 * 📫 : giorgi.gutsaev@gmail.com 
-* 🐦 : https://twitter.com/giogutsaev
      
 <!---
 giorgigutsaevi/giorgigutsaevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
