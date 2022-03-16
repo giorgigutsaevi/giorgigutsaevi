@@ -1,7 +1,8 @@
 # Hello There👋 I'm Giorgi. Nice to see you. 
 Welcome to my page! 
 
-Huge Ruby & JavaScript enthusiast.\
+I am a huge enthusiast for all things JavaScript, React, Node and Ruby. \
+I am currently mastering the MERN stack. 
 Based in London 🇬🇧
 
 - 🤖 Always happy to code & build new things! 
