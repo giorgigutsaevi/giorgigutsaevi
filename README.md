@@ -2,7 +2,8 @@
 Welcome to my page! 
 
 I am a huge enthusiast for all things JavaScript, React, Node and Ruby. \
-I am currently mastering the MERN stack. 
+Graduated from Makers Academy, a highly selective bootcamp in London. \
+I am currently mastering the MERN stack. \
 Based in London 🇬🇧
 
 - 🤖 Always happy to code & build new things! 
