@@ -6,11 +6,11 @@ Graduated from Makers Academy, a highly selective bootcamp in London. \
 I am currently mastering the MERN stack. \
 Based in London 🇬🇧
 
-- 🤖 Always happy to code & build new things! 
+- 🤖 Always excited to code & build new things! 
 - 🌱 Always eager to learn new concepts and adapt.
-- 🌶 Naturally curious. 
+- 🌶 Naturally curious and a visual learner. 
 - 👀 I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
-- 🧠 Avid advocate for productivity and clarity through Second Brain
+- 🧠 Avid advocate for emotional intelligence, effective working practices and communication.
 - ✨ My work ethic summarized in one quote: 
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water.\
 > – Zen saying
