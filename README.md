@@ -3,8 +3,8 @@ Welcome to my Github.
 
 - 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
 - 👨‍🎓 I graduated from Makers Academy, a highly selective bootcamp in London. 
-- 💖 Passionate about React, Redux and MERN-associated technologies. 
-- 🌱 Currently Learning AWS, TypeScript, GrahpQL & Python
+- 💖 Passionate about React and all things JavaScript! 
+- 🌱 Currently Learning AWS, TypeScript, GrahpQL & Python. 
 - 📍 Based in London, UK 🇬🇧
 - 🌶 I am innately a curious person and love learning new libraries & technologies.
 - 👀 In my spare time, I strive to find my next favourite cheese, the smellier the better! 
