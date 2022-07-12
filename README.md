@@ -1,19 +1,17 @@
-# Hello There👋 I'm Giorgi. Nice to see you. 
-Welcome to my page! 
+# Well, Hello There (my attempt to imitate the great Obi-Wan here), I'm Gio. Nice to see you. 
+Welcome to my Github. 
 
-I am a huge enthusiast for all things JavaScript, React, Node and Ruby. \
-Graduated from Makers Academy, a highly selective bootcamp in London. \
-I am currently mastering the MERN stack. \
-Based in London 🇬🇧
-
-- 🤖 Always excited to code & build new things! 
-- 🌱 Always eager to learn new concepts and adapt.
-- 🌶 Naturally curious and a visual learner. 
-- 👀 I enjoy all things related to fantasy, sci-fi, futurism, tech, astronomy & 🧀
-- 🧠 Avid advocate for emotional intelligence, effective working practices and communication.
+- 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
+- 👨‍🎓 I graduated from Makers Academy, a highly selective bootcamp in London. 
+- 💖 Passionate about React, Redux and MERN-associated technologies. 
+- 📍 Based in London, UK 🇬🇧
+- 🌶 I am innately a curious person and love learning new libraries & technologies.
+- 👀 In my spare time, I strive to find my next favourite cheese, the smellier the better! 
 - ✨ My work ethic summarized in one quote: 
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water.\
 > – Zen saying
+
+
 
 ## Blog & Writing
 Apart from coding, I like to document my journey. Pick through my brain on [Medium](https://medium.com/@giorgi.gutsaev)
