@@ -1,4 +1,4 @@
-# Well, Hello There (my attempt to imitate the great Obi-Wan here), I'm Gio. Nice to see you. 
+# Well, Hello There! I'm Gio. Nice to see you. 
 Welcome to my Github. 
 
 - 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
