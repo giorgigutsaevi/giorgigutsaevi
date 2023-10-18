@@ -3,10 +3,10 @@ Welcome to my Github.
 
 - 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
 - 👨‍🎓 I graduated from Makers Academy, a highly selective bootcamp in London. 
-- 💖 Passionate about React and all things JavaScript! 
-- 🌱 Currently Learning AWS, TypeScript, GrahpQL & Python. 
+- 💖 Passionate about all things technology! Love learning new libraries & technologies.
+- 🌱 Currently mastering AWS, Java 17 & Spring. 
 - 📍 Based in London, UK 🇬🇧
-- 🌶 I am innately a curious person and love learning new libraries & technologies.
+- 🌶 I am innately a curious person
 - 👀 In my spare time, I strive to find my next favourite cheese, the smellier the better! 
 - ✨ My work ethic summarized in one quote: 
 > Before enlightenment chop wood and carry water. After enlightenment, chop wood and carry water.\
