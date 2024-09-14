@@ -4,7 +4,7 @@ Welcome to my Github.
 - 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
 - 👨‍🎓 I graduated from Makers Academy, a highly selective bootcamp in London. 
 - 💖 Passionate about all things technology! Love learning new libraries & technologies.
-- 🌱 Currently mastering AWS, Java 17 & Spring. 
+- 🌱 Currently mastering AWS and Python.
 - 📍 Based in London, UK 🇬🇧
 - 🌶 I am innately a curious person
 - 👀 In my spare time, I strive to find my next favourite cheese, the smellier the better! 
