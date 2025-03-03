@@ -1,10 +1,11 @@
 ## Hi There, I'm [Gio](https://www.giogutsaevi.com/). 👋
 Welcome to my Github. 
 
-- 🔭 I'm a Junior Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
+- 🔭 I'm a Software Engineer at Cognizant, UK with a primary focus on front end technologies. 
+- 👨‍💻 I'm currently working on a project at British Gas - building a Lex Chat bot
 - 👨‍🎓 I graduated from Makers Academy, a highly selective bootcamp in London. 
-- 💖 Passionate about all things technology! Love learning new libraries & technologies.
-- 🌱 Currently mastering AWS and Python.
+- 💖 Passionate about all things technology!
+- 🌱 Currently mastering AWS and Python
 - 📍 Based in London, UK 🇬🇧
 - 🌶 I am innately a curious person
 - 👀 In my spare time, I strive to find my next favourite cheese, the smellier the better! 
